@@ -3,12 +3,16 @@ terra cotta #E07A5F
 deep slate blue #3D405B
 */
 
-/* site wide */
+/* site wide/color*/
 
 * {
     font-family: sans-serif;
     box-sizing: border-box;
 }
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 
 /* header styling */
 
