@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <meta name="description" content="">
+    <meta name="description" content="A page about me and the courses I've taken and those I still need to take.">
     <meta name="author" content="Benjamin Novoa">
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/larger.css">
     <script src="scripts/navigation.js" defer></script>
 </head>
+
 <body>
     <header>
         <img src="images/home.svg" alt="house icon" width="512" height="512">
@@ -25,24 +27,38 @@
     </nav>
     <main>
         <h1>Home</h1>
-        <section>
-            <h2></h2>
+        <section class="aboutme">
+            <h2>About Me</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis enim aperiam ipsam doloremque
+                minus deserunt. Minus consequuntur, nobis nam ullam id aliquam dicta odio odit?
         </section>
-        <section>
-            <h2></h2>
+        <section class="studentpic">
+            <h2>Student Photo</h2>
+            <img src="images/studentphoto.webp" alt="student photo">
         </section>
-        <section>
-            <h2></h2>
+        <section id="courses">
+            <h2>Courses</h2>
+            <div id="controls">
+                <button id="all-btn">All Courses</button>
+                <button id="wdd-btn">WDD Courses</button>
+                <button id="cse-btn">CSE Courses</button>
+            </div>
+            <div id="course-list"></div>
+            <p id="credit-total"></p>
         </section>
     </main>
     <footer>
         <nav class="social-media">
-            <a href="">Git Hub</a>
-            <a href="">Linked In</a>
-            <a href="">Stuff</a>
+            <a href="https://www.linkedin.com/"><img src="images/linkedin-circle.svg" alt="Linkedin"></a>
+            <a href="https://github.com/benja-novoa322/wdd231"><img src="images/github.svg" alt=""></a>
+            <a href="https://www.instagram.com/benjaminhelaman?igsh=MTdyaXZ3MmI0cGxqbg=="><img
+                    src="images/instagram-circle.svg" alt="Instagram"></a>
         </nav>
-        <p>©️<span id="currentyear"></span> Benjamin Novoa Lima - Perú</p>
-        <p><span id="lastModified"></span></p>
+        <div>
+            <p>©️<span id="currentyear"></span> Benjamin Novoa Lima - Perú</p>
+            <p><span id="lastModified"></span></p>
+        </div>
     </footer>
 </body>
+
 </html>
