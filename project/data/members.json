@@ -5,7 +5,7 @@
             "compaddress": "Av. Costa Sur 322, Chorrillos",
             "compnumber": "955-124-486",
             "compurl": "http://www.exportfocus.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/focus-2.svg",
             "level": "member"
         },
         {
@@ -13,7 +13,7 @@
             "compaddress": "Malecón Miramar 118, Barranco",
             "compnumber": "981-456-320",
             "compurl": "http://www.hattours.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/hat-tours.svg",
             "level": "member"
         },
         {
@@ -21,7 +21,7 @@
             "compaddress": "Av. Delicias Marinas 456, Miraflores",
             "compnumber": "987-321-654",
             "compurl": "http://www.tosaka.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/tosaka-restaurante.svg",
             "level": "member"
         },
         {
@@ -29,7 +29,7 @@
             "compaddress": "Av. Terminal Marítimo 890, Callao",
             "compnumber": "983-210-478",
             "compurl": "http://www.puertoparaiso.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/puerto-paraiso.svg",
             "level": "member"
         },
         {
@@ -37,7 +37,7 @@
             "compaddress": "Calle Algodón Orgánico 215, San Miguel",
             "compnumber": "984-112-390",
             "compurl": "http://www.textil.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/textil.svg",
             "level": "member"
         },
         {
@@ -45,7 +45,7 @@
             "compaddress": "Av. Ingeniería Costera 1025, Magdalena",
             "compnumber": "986-775-210",
             "compurl": "http://www.andesconstruccion.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/andes-construccion.svg",
             "level": "member"
         },
         {
@@ -53,7 +53,7 @@
             "compaddress": "Av. Renovación Costera 740, La Punta",
             "compnumber": "980-445-210",
             "compurl": "http://www.marina.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/marina-1.svg",
             "level": "member"
         },
         {
@@ -61,7 +61,7 @@
             "compaddress": "Pasaje del Coral 128, Barranco",
             "compnumber": "982-334-120",
             "compurl": "http://www.olasdelsurartesanias.com",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/benja-novoa322/wdd231/6d81c12a9a9e8674020f9a605e42c8af61b24f55/project/images/artesanal.svg",
             "level": "member"
         }
     ]   
