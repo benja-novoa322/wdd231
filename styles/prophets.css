@@ -1,0 +1,88 @@
+/* color scheme
+#a0a0c0
+#483d8b
+
+/* site wide */
+
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* styling */
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 15px;
+}
+
+h1 {
+    grid-column: 1/4;
+    text-align: center;
+    grid-row: 1;
+    background-color: #a0a0c0;
+    color: #483d8b;
+    padding: 15px;
+}
+
+#cards {
+    grid-column: 1/4;
+    grid-row: 2;
+    text-align: center;
+    padding: 18px;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+section {
+    background-color: #a0a0c0;
+    padding: 15px;
+}
+
+h2 {
+    color: #483d8b;
+}
+
+section img {
+    max-width: 320px;
+    margin-bottom: 15px;
+}
+
+/* footer */
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+.social-media {
+    grid-row: 1/1;
+}
+
+.social-media img {
+    width: 36px;
+    height: auto;
+    margin: 0 auto;
+}
+
+footer div {
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #a0a0c0;
+}
+
+#lastModified {
+    margin-left: 4.1rem;
+}
